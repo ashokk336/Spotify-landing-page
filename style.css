@@ -1,0 +1,65 @@
+    /* title NavBar */
+#title{
+    background-color:#e0e9b0;
+}
+/* Navbar color */
+.navbar{
+    background-color: black;
+}
+.a:link {
+    text-decoration: none;
+  }
+  
+.font-fit{
+    padding-top: 2rem;
+    padding-left: 70px;
+    font-weight: bold;
+}
+h1{
+    padding-left: 70px;
+    font-size: 65px;
+    
+}
+.heading-text{
+    padding-top: 5px;
+}
+h3{
+    padding-left: 70px;
+    padding-top: 30px;
+}
+button{
+   margin: 50px;
+}
+/* features section */
+
+#features{
+
+    padding: 6% 8%;
+}
+.feature-box{
+    text-align: center;
+    padding: 2%;
+}
+.image-siz{
+    margin: 1rem;
+    
+}
+.payment-image{
+    text-align: center;
+}
+.border{
+    text-align: center;
+    
+    
+}
+.font-size{
+    text-align: center;
+    font-size: 40px;
+    padding-left: 0% ;
+}
+.footer-text{
+    background-color: #baa057;
+    margin: 0;
+    padding: 1em;
+}
+
